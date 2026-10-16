@@ -109,4 +109,4 @@ A CPU evaluation of the supplied checkpoints produced 1,071,872 model parameters
 
 ## Attribution
 
-Author: Dr. Pritam Gajkumar Shah. See `DATA_SOURCES.md` for the corpus provenance recorded in the supplied download script. No new open-source licence has been assigned in this preparation; repository publication alone does not specify reuse rights.
+Author: Dr. Pritam Gajkumar Shah. See `DATA_SOURCES.md` for the corpus provenance recorded in the supplied download script.
